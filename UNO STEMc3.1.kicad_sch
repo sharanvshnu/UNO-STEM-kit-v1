@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "eaddb01e-76a2-441c-8367-a4076e8c14a4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 163.83 22.86)
+		(size 74.93 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "505bbfb7-7e0f-4262-a625-ce58b1d06b6d")
+		(property "Sheetname" "Voltage Management"
+			(at 163.83 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "V_mgmt.kicad_sch"
+			(at 163.83 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UNO STEMc3.1"
+				(path "/eaddb01e-76a2-441c-8367-a4076e8c14a4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 90.17)
+		(size 74.93 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbbec8fb-7970-4910-8a41-bcd786394ea2")
+		(property "Sheetname" "USB-TTL"
+			(at 20.32 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 20.32 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UNO STEMc3.1"
+				(path "/eaddb01e-76a2-441c-8367-a4076e8c14a4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 22.86)
+		(size 73.66 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f05a407c-4ac8-4d1e-a6b0-e894c1691c23")
+		(property "Sheetname" "Atmega328-PU"
+			(at 21.59 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UNO IC.kicad_sch"
+			(at 21.59 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UNO STEMc3.1"
+				(path "/eaddb01e-76a2-441c-8367-a4076e8c14a4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
